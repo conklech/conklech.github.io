@@ -66,9 +66,10 @@ body {
 }
 
 /* ===================
-    ALL: Orange Theme
+    Colorscheme
    =================== */
 
+/* Header and footer borders; accent color */
 .header-container {
     border-bottom: 20px solid #1437ad;
 }
@@ -90,7 +91,7 @@ body {
 }
 
 /* ==============
-    MOBILE: Menu
+    Menu
    ============== */
 
 nav ul {
@@ -122,7 +123,7 @@ nav a:hover {
 }
 
 /* ==============
-    MOBILE: Main
+    Main
    ============== */
 
 .main {
